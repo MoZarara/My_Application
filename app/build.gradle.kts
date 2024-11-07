@@ -60,17 +60,10 @@ dependencies {
 
     implementation ("androidx.compose.ui:ui:1.0.1")
     implementation ("androidx.compose.material:material:1.0.1")
-
-        implementation ("androidx.compose.material:material-icons-core:1.0.1")
-        implementation ("androidx.compose.material:material-icons-extended:1.0.1")
-
-
-
+    implementation ("androidx.compose.material:material-icons-core:1.0.1")
+    implementation ("androidx.compose.material:material-icons-extended:1.0.1")
     implementation("network.chaintech:sdp-ssp-compose-multiplatform:1.0.4")
-
     implementation ("androidx.compose.foundation:foundation:1.7.5")
-
-
     implementation ("androidx.compose.material3:material3:1.0.0")
 /*
     var nav_version = "2.8.3"
